@@ -1,38 +1,20 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammad Sahragard</h1>
+<h3 align="center">I'm 20 years old and I have been working in the field of web design and development for 3 years 🌐. The matter started when I saw a video about website design and I liked it🙂, and that same night I learned basic html🙃. And so far I have gained a lot of experience, skills and knowledge in this field🤷.</h3>
 
-I am Mohammad Sahragard from iran 🇮🇷.
-I'm 20 years old and I have been working in the field of web design and development for 3 years 🌐. The matter started when I saw a video about website design and I liked it🙂, and that same night I learned basic html🙃. And so far I have gained a lot of experience, skills and knowledge in this field🤷.
+- 🌱 I’m currently learning **react js**
 
+- 📫 How to reach me **the.mohammadsahragard@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/mohammadsahragard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mohammadsahragard" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/mohammadsahragard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/mohammadsahragard" height="30" width="40" /></a>
+<a href="https://twitter.com/sahragardam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahragardam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammadsahragard/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammadsahragard/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/mohammadsahragard_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohammadsahragard_/" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/mohammadsahragard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/mohammadsahragard" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucmlrwx41qixev6qnmzivxiw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucmlrwx41qixev6qnmzivxiw" height="30" width="40" /></a>
+</p>
 
-#### My experience's and skills:
-* ##### Web development:
-1. HTML
-2. CSS
-3. ES/JS
-5. BOOTSTRAP
-6. SASS
-7. REACT
-
-* PWA
-* NPM
-* SPA
-* ect
-
-* ##### Web design:
-1. Figma
-2. Ui kit
-3. Material design
-
-
-
-______________
-#### Follow me:
-1. YouTube: (acodemy)
-https://youtube.com/channel/UCmlrWX41qiXEv6QNMzivxIw
--
-2. Instagram: (@mohammadsahragard_)
-https://www.instagram.com/mohammadsahragard_/
--
-3. LinkedIn: (mohammadsahragard)
-https://www.linkedin.com/in/mohammadsahragard
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
