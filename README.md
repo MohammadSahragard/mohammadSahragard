@@ -1,92 +1,43 @@
+## Hi there 🍁
 
-  
+I'm Mohammad Sahragard. Front-end developer (NextJs) and UI designer.
 
-### <div align="center">Front-End Developer & Designer</div>  
-  
+### 🤏🏻 A little detail about me:
+```javascript
+const MohammadSahragard = {
+  startCoding: 2019,
+  bornIn: 2002,
+  location: 'Iran - Mashhad',
+  languages: ['Persian (native)', 'English (60%)'],
+  programmingLanguages: ['Javascript', 'Typescript'],
+  mySkils: {
+    js: ['NextJs', 'ReactJs'],
+    css: ['Bootstrap', 'Tailwind'],
+    preprocessor: ['SASS'],
+    animationLibraries: ['GSAP', 'Anime.js'],
+    myFavoriteUILibraries: ['NextUI', 'PrimeReact'],
+    softwares: ['Figma', 'Xd', 'Ps', 'Ai', 'Pr'],
+    database: ['MongoDB'],
+    other: ['Redux', 'ReactQuery', 'GraphQl', 'Chart.js', 'SwiperJs'],
+  },
+  funFact: "I'm also a teacher of Persian literature. 😅"
+}
+```
 
-
-
-### • About Me  
-Hello everyone, I am Mohammad, I'm 21 years old, and I have been working in the field of front-end development for 4 years, since 2019. 👨‍💻
-Before entering this field, I worked in graphic design including logo design for 1 year. ✒️
- I'm also a teacher of Persian literature. 🧑🏻‍🏫😅🤦🏻  
-  
-
-
-
-### • My Services  
-- Web development 🌐  
-  
-
-- UI design 👨‍💻  
-  
-
-- Education in social media  
-  
-
-
-
-### • My Languages  
-- Persian (native)  
-  
-
-- English (almost 60 percent)  
-  
-
-<br/>  
+### 🫱🏻‍🫲🏻 Connect with me:
+<p>
+<a href='https://www.linkedin.com/in/mohammadsahragard'><img width='30px' alt='linkdin icon' src='https://camo.githubusercontent.com/0e286aa5bed79cfc6e2029d50f215531455847ec4046c9df33438cd2e9023950/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e6b6564696e2f6c696e6b6564696e2d74696c652e737667' /></a>
+<a href='https://www.instagram.com/mohammadsahragard_'><img width='30px' alt='instagram icon' src='https://camo.githubusercontent.com/854801bc45d6b686b8f3d660928d421b65ff260e25b1281a0122b2a85e8dc661/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f696e7374616772616d2f696e7374616772616d2d74696c652e737667' /></a>
+<a href='https://twitter.com/MammadSahragard'><img width='30px' alt='twitter icon' src='https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png' /></a>
+<a href='https://www.youtube.com/@mohammadsahragard-official'><img width='30px' alt='youtube icon' src='https://camo.githubusercontent.com/e870838de6d1977bd8e861796b3c47f46449dd2fb396b54f6bb2c25eab416dae/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f796f75747562652f796f75747562652d74696c652e737667' /></a>
+</p>
 
 
-## My Skill Set  
-- HTML
-- CSS
-- Javascript
-- Bootstrap
-- MaterialUi
-- Tailwindcss
-- Redux
-- NextUi - PrimeReact
-- ReactJs
-- NextJs
-- ChartJs
-- Swiper
-- AnimeJs
-- GSAP
-- Adobe illustrator
-- Adobe photoshop
-- Figma
+---
 
-<br/>  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsahragard&show_icons=true&locale=en&layout=donut&theme=midnight-purple&border_color=ffffff00" alt="mohammadsahragard" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mohammadsahragard&show_icons=true&locale=en&theme=midnight-purple&border_color=ffffff00&line_height=27" alt="mohammadsahragard" />
 
 
-## Connect with me  
-<a href="https://github.com/mohammadSahragard" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mohammadsahragard" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/mammad.sahragard" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/MammadSahragard" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@mohammadsahragard-official" target="_blank">
-<img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/mohammadsahragard" target="_blank">
-<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt=devto style="margin-bottom: 5px;" />
-</a>  
-  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammadsahragard&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsahragard" /> </p>
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mohammadSahragard&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mohammadSahragard&&style=flat-square" align="center" />
-</div>  
