@@ -35,8 +35,10 @@ const MohammadSahragard = {
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsahragard&show_icons=true&locale=en&layout=donut&theme=midnight-purple&border_color=ffffff00" alt="mohammadsahragard" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mohammadsahragard&show_icons=true&locale=en&theme=midnight-purple&border_color=ffffff00&line_height=27" alt="mohammadsahragard" />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadsahragard&show_icons=true&locale=en&layout=donut&theme=midnight-purple&border_color=ffffff00" alt="mohammadsahragard" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadsahragard&show_icons=true&locale=en&theme=midnight-purple&border_color=ffffff00&line_height=27" alt="mohammadsahragard" />
+</p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammadsahragard&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadsahragard" /> </p>
