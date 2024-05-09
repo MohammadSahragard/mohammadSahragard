@@ -18,7 +18,7 @@ const MohammadSahragard = {
     myFavoriteUILibraries: ['NextUI', 'PrimeReact'],
     softwares: ['Figma', 'Xd', 'Ps', 'Ai', 'Pr'],
     database: ['MongoDB'],
-    other: ['Redux', 'ReactQuery', 'GraphQl', 'Chart.js', 'SwiperJs'],
+    other: ['Redux', 'ReactQuery', 'GraphQl'],
   },
   funFact: "I'm also a teacher of Persian literature. 😅"
 }
