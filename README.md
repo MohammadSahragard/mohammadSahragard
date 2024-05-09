@@ -14,7 +14,7 @@ const MohammadSahragard = {
     js: ['NextJs', 'ReactJs'],
     css: ['Bootstrap', 'Tailwind'],
     preprocessor: ['SASS'],
-    animationLibraries: ['GSAP', 'Anime.js'],
+    myFavoriteAnimationLibraries: ['GSAP', 'Anime.js'],
     myFavoriteUILibraries: ['NextUI', 'PrimeReact'],
     softwares: ['Figma', 'Xd', 'Ps', 'Ai', 'Pr'],
     database: ['MongoDB'],
