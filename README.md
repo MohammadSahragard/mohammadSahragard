@@ -20,7 +20,7 @@ const MohammadSahragard = {
     database: ['MongoDB'],
     other: ['Redux', 'ReactQuery', 'GraphQl'],
   },
-  funFact: "I'm also a teacher of Persian literature. 😅"
+  education: "Teaching Persian literature"
 }
 ```
 
