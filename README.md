@@ -10,7 +10,7 @@ const MohammadSahragard = {
   startCoding: 2019,
   bornIn: 2002,
   location: 'Iran - Mashhad',
-  languages: ['Persian (native)', 'English (60%)'],
+  languages: ['Persian (native)', 'English'],
   programmingLanguages: ['Javascript', 'Typescript'],
   mySkils: {
     js: ['NextJs', 'ReactJs'],
