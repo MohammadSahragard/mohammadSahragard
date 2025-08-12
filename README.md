@@ -17,7 +17,7 @@ const MohammadSahragard = {
     css: ['Bootstrap', 'Tailwind'],
     preprocessor: ['SASS'],
     myFavoriteAnimationLibraries: ['GSAP'],
-    myFavoriteUILibraries: ['NextUI', 'PrimeReact'],
+    myFavoriteUILibraries: ['HeroUI (NextUI)', 'PrimeReact'],
     softwares: ['Figma', 'Ps', 'Ai', 'Pr'],
     database: ['MongoDB'],
     other: ['Redux', 'ReactQuery', 'GraphQl'],
